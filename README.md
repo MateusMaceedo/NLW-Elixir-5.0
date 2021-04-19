@@ -368,7 +368,7 @@ Após instalar, acesse as configurações da extensão e deixe as últimas confi
 
 A próxima extensão a ser instalada é a ElixirLS, que também pode ser acessada diretamente pelo link:
 
-[ElixirLS: Elixir support and debugger - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls)
+<img src="https://jakebecker.gallerycdn.vsassets.io/extensions/jakebecker/elixir-ls/0.6.5/1612896817774/Microsoft.VisualStudio.Services.Icons.Default" style="display: block; object-fit: cover; border-radius: 1px; width: 100%; height: 100%;">
 
 Após finalizar a instalação, precisamos ajustar duas pequenas coisas nas configurações da própria extensão. Para isso, clique no ícone da engrenagem e depois em "Extension Settings".
 
