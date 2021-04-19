@@ -368,7 +368,7 @@ Após instalar, acesse as configurações da extensão e deixe as últimas confi
 
 A próxima extensão a ser instalada é a ElixirLS, que também pode ser acessada diretamente pelo link:
 
-https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls
+[ElixirLS](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls)
 
 Após finalizar a instalação, precisamos ajustar duas pequenas coisas nas configurações da própria extensão. Para isso, clique no ícone da engrenagem e depois em "Extension Settings".
 
