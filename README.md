@@ -396,7 +396,7 @@ Para instalar o Insomnia no Linux, você pode usar o snapd que é semelhante à 
 
 Para verificar se você possui ou não o snapd instalado, pode checar nesse link: 
 
-[Installing snapd | Snapcraft documentation](https://www.notion.so/image/https%3A%2F%2Fassets.ubuntu.com%2Fv1%2F4726d040-Snap%2Blogo%2Bwhite%2Bbg.jpg?table=block&id=387a2274-cb14-4bef-b3be-4874dccc0b2c&width=500&userId=c0530cfd-b499-49b5-9557-57b445ee0294&cache=v2)
+[Installing snapd | Snapcraft documentation](https://snapcraft.io/docs/installing-snapd)
 
 Se a distribuição Linux instalada na sua máquina estiver na seção **Distributions without snap pre-installed** significa que você não possui o snapd instalado. Para instalar basta clicar no link com o nome da sua distribuição e você irá para uma página com o passo a passo para a instalação. 
 
