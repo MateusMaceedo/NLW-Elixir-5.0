@@ -362,7 +362,7 @@ A correta é essa:
 Inclusive você pode clicar para instalar a partir desse link que será solicitada a permissão para abrir no VS Code e instalar a extensão.
 Após instalar, acesse as configurações da extensão e deixe as últimas configurações da seguinte maneira:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a07c3649-47c0-4bf7-998f-3af5f1785c54/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a07c3649-47c0-4bf7-998f-3af5f1785c54/Untitled.png)
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa07c3649-47c0-4bf7-998f-3af5f1785c54%2FUntitled.png?table=block&id=8b17d068-6bb9-48a8-907c-bf63c3ff3539&width=2040&userId=c0530cfd-b499-49b5-9557-57b445ee0294&cache=v2" width="708" height="283.9">
 
 ## ElixirLS
 
