@@ -374,11 +374,11 @@ Após finalizar a instalação, precisamos ajustar duas pequenas coisas nas conf
 
 Aqui você irá desmarcar a primeira caixinha que diz "Elixir LS: Dialyzer Enabled":
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/474c4c38-3efe-4c7f-b168-a14c6635f9e4/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/474c4c38-3efe-4c7f-b168-a14c6635f9e4/Untitled.png)
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F474c4c38-3efe-4c7f-b168-a14c6635f9e4%2FUntitled.png?table=block&id=bba76b9e-a36b-4146-aed7-914f6e847544&width=2010&userId=c0530cfd-b499-49b5-9557-57b445ee0294&cache=v2" width="708" height="231.54">
 
 E mais abaixo, desmarque também a opção que diz "Elixir LS: Suggest Specs":
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cdf63ad-5e4f-4abc-bddc-881ea4ffdb10/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cdf63ad-5e4f-4abc-bddc-881ea4ffdb10/Untitled.png)
+<img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F8cdf63ad-5e4f-4abc-bddc-881ea4ffdb10%2FUntitled.png?table=block&id=36fcee76-ccbb-462b-ab46-fd8a23a7cdcd&width=2010&userId=c0530cfd-b499-49b5-9557-57b445ee0294&cache=v2" width="708" height="204.09">
 
 ---
 
