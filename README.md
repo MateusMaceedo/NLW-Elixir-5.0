@@ -3,11 +3,15 @@
  <br>
 </h1>
 
-Faaaala Dev! Seja muito bem vindo à **Next Level Week 05**, trilha **Elixir**!
+<h1 align="center">Inmana</h1>
 
-Nesse guia iremos realizar as configurações de ambiente necessárias para colocar a mão na massa. 
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-Para que você consiga configurar tudo de acordo com o seu sistema operacional, deixamos aqui um guia específico para cada ambiente 💜
+ <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
+</p>
+
+**Next Level Week 05**, trilha **Elixir**!💜
 
 # Instalação do Elixir e Phoenix
 
